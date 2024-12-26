@@ -7,3 +7,6 @@
 ```python
 app = Flask(__name)
 ```
+- [ ] comprar fruta
+- [ ] comprar alcohol
+- [ ] llevar avacunar al gat
